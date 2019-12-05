@@ -15,8 +15,9 @@
   * [5.3. Rewards System](master/6.3.-rewards-system.md)
   * [5.4. Account Management System](master/6.3.-account-management-system.md)
 * [6. User Stories](6.-user-stories.md)
-* [7. Application Flow](8.-application-workflow.md)
-* [8. Data Model](7.-data-models.md)
-* [9. Arhitectural Requirements](8.-arhitectural-requirements.md)
-* [10. Implementation Plan](10.-implementation-steps.md)
+* [7. Wireframes](7.-wireframes.md)
+* [8. Application Flow](8.-application-workflow.md)
+* [9. Data Model](7.-data-models.md)
+* [10. Arhitectural Requirements](8.-arhitectural-requirements.md)
+* [11. Implementation Plan](10.-implementation-steps.md)
 
