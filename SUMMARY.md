@@ -13,6 +13,7 @@
   * [5.1. Membership System](master/6.2.-membership-system.md)
   * [5.2. Events System](master/6.1.-events.md)
   * [5.3. Rewards System](master/6.3.-rewards-system.md)
+  * [Notification System](master/notification-system.md)
   * [5.4. Account Management System](master/6.3.-account-management-system.md)
 * [6. Arhitectural Requirements](8.-arhitectural-requirements.md)
 * [6. User Stories](6.-user-stories.md)
