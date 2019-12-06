@@ -20,7 +20,7 @@ malizmaj.hr@gmail.com
 
 +385 \(1\) 6701 307
 
-**OIB: 60174266484**
+OIB: 60174266484
 
 #### PROJECT MANAGER
 
