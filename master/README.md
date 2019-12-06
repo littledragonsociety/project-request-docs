@@ -7,7 +7,7 @@ This section contains a categorized list of required project custom functionalit
 | Membership System | Yes | Yes |  |
 | Events System | Yes | Yes |  |
 | Rewards System | Yes | Yes |  |
-| Account Management System | Yes | Yes | Yes |
+| Access Management System | Yes | Yes | Yes |
 
 > **Legend** Public - front-end public site, CMS - front-end admin CMS, PaaS - back-end cloud services
 
