@@ -14,7 +14,7 @@
   * [5.2. Events System](master/6.1.-events.md)
   * [5.3. Rewards System](master/6.3.-rewards-system.md)
   * [Notification System](master/notification-system.md)
-  * [5.4. Account Management System](master/6.3.-account-management-system.md)
+  * [5.4. Access Management System](master/6.3.-account-management-system.md)
 * [6. Arhitectural Requirements](8.-arhitectural-requirements.md)
 * [6. User Stories](6.-user-stories.md)
 * [9. Wireframes](7.-wireframes.md)
