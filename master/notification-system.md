@@ -13,8 +13,13 @@ Application will communicate with members utilizing two delivery mechanisms:
 
 Application will use two types of notifications: the Notice and the Reminder.
 
-* **Notice** A notice is one time event.
-* **Reminder** A reminder is a reccuring event.
+* **Notice**
+
+  A notice is one time event.
+
+* **Reminder**
+
+  A reminder is a reccuring event.
 
 Notifications can be triggered in two ways:
 
