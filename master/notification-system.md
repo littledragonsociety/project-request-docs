@@ -4,10 +4,10 @@ This section describes the minimum notification system requirements.
 
 ## Communication Channels
 
-Application will communicate with members via two delivery mechanism:
+Application will communicate with members utilizing two delivery mechanisms:
 
-* **email notifications** \(Xxxxxxxxxxxxxxxxxx\)
-* **push notifications** \(Firebase Cloud Messaging\)
+* **email notifications** via Xxxxxxxxxxxxxxxxxx Xxxxx.
+* **push notifications** via Firebase Cloud Messaging.
 
 ### Notification Strategy
 
@@ -18,7 +18,7 @@ Application will use two types of notifications: the Notice and the Reminder.
 
 Notifications can be triggered in two ways:
 
-* **automatically** - by application
+* **automatically** - by application.
 * **manually** - by user input, de facto a message to targeted group. For example: admin wants to send a message to all subscribed volunteers.
 
 **If opted-in a member will receive notification in case of:**
