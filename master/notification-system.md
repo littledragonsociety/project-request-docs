@@ -23,8 +23,15 @@ Application will use two types of notifications: the Notice and the Reminder.
 
 Notifications can be triggered in two ways:
 
-* **automatically** - by application.
-* **manually** - by user input, de facto a message to targeted group. For example: admin wants to send a message to all subscribed volunteers.
+* **automatically**
+
+  Triggered by application.
+
+* **manually**
+
+  Triggered by user input, de facto a message to targeted group.
+
+  For example: admin wants to send a message to all subscribed volunteers.
 
 **If opted-in a member will receive notification in case of:**
 
