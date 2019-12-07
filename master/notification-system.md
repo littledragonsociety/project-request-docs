@@ -11,7 +11,7 @@ Application will communicate with members utilizing two delivery mechanisms:
 
 ### Notification Strategy
 
-Application will use two types of notifications: **notices and the reminders**.
+Application will use two types of notifications: N**otices and Reminders**.
 
 * **Notice**
 
