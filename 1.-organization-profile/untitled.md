@@ -1,5 +1,7 @@
 # 1.1. Needs
 
+A need is a the Sun of our system and everything is revolving around needs.
+
 The main focus of our organization is a _**fulfillment of children needs**_.
 
 Needs can be material or financial.
