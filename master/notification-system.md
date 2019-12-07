@@ -52,10 +52,10 @@ Notifications can be triggered in two ways:
 
 A member has total control over notifications from hers/his profile page.
 
-**A logged-in member can enable/disable:**
+A logged-in member can **enable/disable**:
 
-* all notifications.
-* a single notification.
+* **all notifications**
+* **single notification**
 
 ### Notification Page
 
