@@ -19,7 +19,7 @@ The QR Code is generated from specific child's data for specific event and consi
 
 ## Package Label
 
-> Printed label example
+> Printed label example.
 
 ![](../.gitbook/assets/qr-code-label.png)
 
