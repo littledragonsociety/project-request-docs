@@ -65,14 +65,11 @@ Notifications can be triggered in two ways:
 | _Back to School_ |  | Yes |
 | _Vacation Summer_ |  | Yes |
 
-### Managing Notification Subscriptions
+### Manually Triggered Custom Notice
 
-A member has total control over notifications from hers/his profile page.
+Admin creates a notification message and sends it to selected list of members.
 
-A logged-in member can **enable/disable**:
-
-* **all notifications**
-* **single notification**
+> Should be discussed with a developer.
 
 ### Upcoming Events Reminder
 
@@ -91,4 +88,13 @@ It is bound to an Event and it alerts all visitors/members about current time st
 Content/messages of the Smart bar are created and controlled within the event.
 
 > Should be discussed with a developer.
+
+### Managing Notification Subscriptions
+
+A member has total control over notifications from hers/his profile page.
+
+A logged-in member can **enable/disable**:
+
+* **all notifications**
+* **single notification**
 
