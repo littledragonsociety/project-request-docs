@@ -91,7 +91,7 @@ Content/messages of the Smart bar are created and controlled within the event.
 
 ### Managing Notification Subscriptions
 
-A member has total control over notifications from hers/his profile page.
+A member has control over notifications from hers/his profile page.
 
 A logged-in member can **enable/disable**:
 
