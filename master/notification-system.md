@@ -11,7 +11,7 @@ Application will communicate with members utilizing two delivery mechanisms:
 
 ### Notification Strategy
 
-Application will use two types of notifications: Notices and Reminders.
+Application will use two types of notifications: **Notices and Reminders**.
 
 * **Notice**
 
@@ -48,6 +48,22 @@ Notifications can be triggered in two ways:
 | Organization Operational Need | Yes | Yes |  | Notice |  | Admin, Staff |  |  |  | Yes |
 
 > This is not a full list of notifications.
+
+### Notification Types
+
+> Events by notification types.
+
+| Event | Notice | Reminder |
+| :--- | :--- | :--- |
+| _Budget 2020_ | Yes |  |
+| _Volunteers Wanted_ |  |  |
+| _Hands-on \#34_ |  | Yes |
+| _Sponsors Wanted_ | Yes |  |
+| _Christmas Gift_ |  | Yes |
+| _Easter Gift_ |  | Yes |
+| _Birthday Presents for January_ |  | Yes |
+| _Back to School_ |  | Yes |
+| _Vacation Summer_ |  | Yes |
 
 ### Managing Notification Subscriptions
 
