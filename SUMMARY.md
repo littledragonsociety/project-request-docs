@@ -18,7 +18,7 @@
   * [5.6. QR Code Generator and Scanner](master/untitled.md)
 * [6. Arhitectural Requirements](8.-arhitectural-requirements.md)
 * [7. User Stories](6.-user-stories.md)
-* [9. Wireframes](7.-wireframes.md)
+* [9. Wireframes and Application Flow](7.-wireframes.md)
 * [8. Application Flow](8.-application-workflow.md)
 * [10. Data Model](7.-data-models.md)
 * [11. Implementation Plan](10.-implementation-steps.md)
