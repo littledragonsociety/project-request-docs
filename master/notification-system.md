@@ -62,7 +62,7 @@ A logged-in member can **enable/disable**:
 
 A member can subscribe/unsubscribe to a certain upcoming event @upcoming events widget.
 
-> Should be discussed with developer.
+> Should be discussed with a developer.
 
 ### The Smart Bar
 
@@ -74,5 +74,5 @@ It is bound to an Event and it alerts all visitors/members about current time st
 
 Content/messages of the Smart bar are created and controlled within the event.
 
-> Should be discussed with developer.
+> Should be discussed with a developer.
 
