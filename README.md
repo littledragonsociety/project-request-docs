@@ -6,7 +6,7 @@
 
 ### DATE
 
-October 23, 2019
+December 8, 2019.
 
 ### PREPARED BY
 
@@ -31,4 +31,8 @@ domagoj.mendas@gmail.com
 ### PREPARED FOR
 
 **Public**
+
+### BUDGET
+
+$5.000,00
 
