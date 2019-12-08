@@ -12,7 +12,7 @@
 * [5. Custom Functionality Requirements](master/README.md)
   * [5.1. Membership System](master/6.2.-membership-system.md)
   * [5.2. Events System](master/6.1.-events.md)
-  * [5.3. Rewards System](master/6.3.-rewards-system.md)
+  * [5.3. Members Valorization System](master/6.3.-rewards-system.md)
   * [5.4. Notification System](master/notification-system.md)
   * [5.5. Access Managment System](master/6.3.-account-management-system.md)
 * [6. Arhitectural Requirements](8.-arhitectural-requirements.md)
