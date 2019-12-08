@@ -6,12 +6,12 @@ This section describes the minimum notification system requirements.
 
 Application will communicate with members utilizing two delivery mechanisms:
 
-* **email notifications** via Xxxxxxxxxxxxxxxxxx Xxxxx.
+* **email notifications** via SendGrid.
 * **push notifications** via Firebase Cloud Messaging.
 
 ### Notification Strategy
 
-Application will use two types of notifications: N**otices and Reminders**.
+Application will use two types of notifications: Notices and Reminders.
 
 * **Notice**
 
@@ -39,12 +39,13 @@ Notifications can be triggered in two ways:
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | New Sponsor Event Announcement |  |  |  | Notice |  | Application |  |  | Yes |  |
 | New Sponsor Event Activated | Yes |  |  | Notice |  | Application |  |  | Yes |  |
-| Standing Instruction Expired | Yes |  |  | Notice |  | Notice |  | Yes | Yes |  |
-| Protege Thanks Note | Yes | Yes |  | Notice |  | Notice |  |  | Yes |  |
-| Protege Additional Need | Yes | Yes |  | Notice |  | Notice |  |  | Yes |  |
-| New Volunteer Event Announcement | Yes | Yes |  | Notice |  | Notice |  |  |  | Yes |
-| New Volunteer Event Activated | Yes | Yes |  | Notice |  | Notice |  |  |  | Yes |
-| Organization Operational Need | Yes | Yes |  | Notice |  | Notice |  |  |  | Yes |
+| Standing Instruction Expired | Yes |  |  | Reminder |  | Application |  | Yes | Yes |  |
+| Protege Thanks Note | Yes | Yes |  | Notice |  | Application |  |  | Yes |  |
+| Protege Additional Need | Yes | Yes |  | Notice |  | Application |  |  | Yes |  |
+| New Volunteer Event Announcement | Yes | Yes |  | Notice |  | Application |  |  |  | Yes |
+| New Volunteer Event Activated | Yes | Yes |  | Notice |  | Application |  |  |  | Yes |
+| Volunteer Subscribed Event Reminder | Yes | Yes |  | Reminder |  | Application |  |  |  | Yes |
+| Organization Operational Need | Yes | Yes |  | Notice |  | Admin, Staff |  |  |  | Yes |
 
 > This is not a full list of notifications.
 
@@ -57,9 +58,21 @@ A logged-in member can **enable/disable**:
 * **all notifications**
 * **single notification**
 
-### Notification Page
+### Upcoming Events Reminder
 
-### Notification Widget
+A member can subscribe/unsubscribe to a certain upcoming event @upcoming events widget.
 
-### Upcoming Events
+> Should be discussed with developer.
+
+### The Smart Bar
+
+A visitor/member can subscribe to an actual event via the Smart Bar.
+
+The Smart Bar is a front-end \(PWA\) global messaging subsystem with reccuring reminder on top of the screen.
+
+It is bound to an Event and it alerts all visitors/members about current time status of the event.
+
+Content/messages of the Smart bar are created and controlled within the event.
+
+> Should be discussed with developer.
 
