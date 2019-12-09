@@ -34,5 +34,5 @@ domagoj.mendas@gmail.com
 
 ### BUDGET
 
-$5.000,00
+€5000
 
